@@ -1,1 +1,1 @@
-# vr-visualizations
+# Visualizing chemical systems using virtual reality
